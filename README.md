@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Md Arosh Prodhen from Bangladesh. I really enjoy learning new things. Connect with me here -
+<p align="center">
+<a href="https://www.linkedin.com/in/arosh-prodhen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</
 
 <!--
 **Prodhen/Prodhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
